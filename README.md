@@ -1,12 +1,10 @@
-Привет ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-==============================================================================================================================
+### Меня зовут Руслан, я занимаюсь разработкой на яп Python с опытом создания логики приложений и API.
 
-#### Меня зовут Руслан, я занимаюсь разработкой на яп Python с опытом создания логики приложений и API
+Специализируюсь на разработке backend-решений с акцентом на качество кода и надёжность архитектуры. Стремлюсь развиваться в направлении разработки высоконагруженных систем и интеграции аналитических решений. Готов применять свои навыки для создания надёжных и эффективных программных продуктов.
+<br>
+<br>
 
-## Обо мне
-#### Специализируюсь на разработке backend-решений с акцентом на качество кода и надёжность архитектуры. Стремлюсь развиваться в направлении разработки высоконагруженных систем и интеграции аналитических решений. Готов применять свои навыки для создания надёжных и эффективных программных продуктов.
-
-## Skills
+## Hard skills
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/></a>
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" title="Fast API"/></a>
@@ -22,6 +20,7 @@
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" title="Bootstrap"/></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" title="Figma"/></a>
 </p>
+<br>
 
 ## Контакты
 📍  [Москва](https://www.google.ru/maps/place/Москва)<br>
